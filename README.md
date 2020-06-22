@@ -10,7 +10,7 @@ It bases upon [haste](https://github.com/seejohnrun/haste-server) and got enhanc
 * Raw paste-view
 
 ## Installation
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/MarvinMenzerath/HastebinPlus)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Snowflake107/HastebinPlus)
 
 1. Install Git and node.js: `sudo apt-get install git nodejs`
 2. Clone this repository: `git clone https://github.com/MarvinMenzerath/HastebinPlus.git hastebin-plus`
